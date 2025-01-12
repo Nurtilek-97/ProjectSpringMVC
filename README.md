@@ -3,6 +3,7 @@
 2) select
 3) radiobutton
 4) chekbox
+
 Также применение валидаций данных: @Size, @NotEmpty, @NotBlank, @Min, @Max, @Pattern
 Стек проекта:
 1) Maven
