@@ -10,3 +10,7 @@
 2) JSP файлы
 3) Java 8
 4) Аннотации Spring
+
+Результат запуска проекта:
+![image](https://github.com/user-attachments/assets/52f22188-f0e2-4b6f-956a-086e8453da39)
+
