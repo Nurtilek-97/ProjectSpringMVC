@@ -11,6 +11,10 @@
 3) Java 8
 4) Аннотации Spring
 
-Результат запуска проекта:
+Результат запуска URL:
+1) /askDetails:
 ![image](https://github.com/user-attachments/assets/52f22188-f0e2-4b6f-956a-086e8453da39)
+2) /showDetails:
+![image](https://github.com/user-attachments/assets/a8bd2008-68ce-465e-90f8-2539e0e7f85b)
+
 
